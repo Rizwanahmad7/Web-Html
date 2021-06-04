@@ -1,0 +1,180 @@
+/*!
+ * Start Bootstrap - Modern Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 749px;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 749px;
+}
+
+header.carousel .fill { margin:0;
+padding:0;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+
+
+ @media (min-width: 0px) and (max-width: 320px) {
+	 
+	 
+	 
+	
+}
+
+/*------------------Start For Care Web---------------*/
+
+.nav-logo img{margin:20px 0; padding:0; width:100px; height:100px;}
+
+.banner{margin:0; padding:0; width:100%}
+.banner h1{margin:0; padding:0; font-size:80px; font-family:lato; font-weight:bold; color:#129fa6; text-transform:uppercase;}
+.banner p{margin:24px 0 250px 0; padding:0; font-size:30px; font-family:lato;font-weight:bold; text-transform:uppercase; }
+
+
+.banner2{margin:0; padding:0; width:100%; ; background-image:url(../images/banner%204.jpg);}
+.patient_care_box{margin:80px 0 80px 0; padding:50px 30px 50px 30px; width:100%; background-color:#6dc2c7;}
+.patient_care_box h1{margin:0; padding:0; font-size:30px; color:#FFF; text-align:center; font-weight:bold; font-family:lato;}
+.patient_care_box p{margin:20px 0 30px 0; padding:0; font-size:16px; color:#FFF; font-family:lato; text-transform:none; text-align:center;}
+.know-more-box{margin:0 ; padding:0; text-align:center;}
+.know-more-box button{margin:0; padding:5px; text-decoration:none; color:#FFF; background-color:#52545d; border:none; font-size:14px; }
+
+
+.our-service-box{margin:0; padding:0; width:100%; background-color:#fafafa;}
+.our-service-box h1{margin:90px 0 0 0; padding:0; font-size:36px; font-family:Museo Sans ;   text-align:center; text-transform:uppercase;}
+.our-service-box span{color:#129fa6}
+.our-service-box p{margin:30px 0 0 0; padding:0; font-size:16px; font-family:lato; text-align:center; }
+.service-box{margin:60px 0; padding:0; background-color:#FFF;}
+.service-box img{margin:0; padding:0; width:100%; height:260px;}
+.service-box h1{margin:20px 0; padding:0; font-size:24px; font-family:lato; font-weight:bold;}
+.service-box p{margin:0; padding:0 20px; font-size:16px; font-family:lato; font-weight:none;}
+
+.learn-more-box{margin:0 ; padding:0; text-align:center;}
+.learn-more-box button{margin:20px 0; padding:0px; text-decoration:none; background-color:#FFF; color:#129fa6; border:none; font-size:16px; }
+
+.more-services-box{margin:0 ; padding:0; text-align:center;}
+.more-services-box button{margin:0; padding:0 0 40px 0; text-decoration:none; background:#fafafa; color:#129fa6; border:none; font-size:18px; }
+
+
+
+.success-box{margin:0; padding:90px 0; width:100%;}
+.success-box h1{margin:0; padding:0; font-size:36px; font-family:Museo Sans;  text-align:center; text-transform:uppercase;}
+.success-box span{color:#129fa6}
+.success-box p{margin:30px 0 0 0; padding:0; font-size:16px; font-family:lato; text-align:center; }
+.success-box img{margin:50px 0; padding:0; width:100%;}
+
+.quote-box{margin:48px 0; padding:85px 88px; width:100%; background-color:#fafafa;}
+.quote-box p{margin:0; padding:0; font-family:lato; font-size:20pt; background-color:#fafafa; text-align: inherit;}
+.success-box button{margin:20px 0 0 0; padding:0; text-decoration:none; background:#fafafa; color:#129fa6; border:none; font-size:18px; }
+
+
+.contact-box{margin:0; padding:90px 0; width:100%; background-color:#129fa6}
+.contact-box h1{margin:0; padding:0; font-size:60px;font-family:lato; color:#FFF;text-align:center; text-transform:uppercase;}
+.contact-box p{margin:30px 0 0 0; padding:0; font-size:30px; font-family:lato; text-align:center; color:#FFF; text-transform:uppercase; }
+.contact-us-box{margin:35px 0 0 0; padding:0; text-align:center; }
+.contact-us-box button{margin:0; padding:10px 30px; text-decoration:none; text-transform:uppercase;color:#fff; background-color:#129fa6; font-size:18px; }
+
+
+
+.appointment-box{margin:0; padding:80px 0; width:100%; background-color:#fafafa;}
+.appointment-box h1{margin:0; padding:0; font-size:36px; font-weight:500; text-transform:uppercase; font-family:lato; color:#52545d;}
+.appointment-box p{margin:20px 0; padding:0; font-size:16px; font-family:lato; }
+.appointment-box h2{margin:0; padding:0; font-size:25px; font-weight:500; text-transform:uppercase; font-family:lato; color:#129fa6;}
+.map{margin:0; padding:0; width:100%}
+
+
+
+.take-appointment-box{margin:0; padding:0; width:100%; background-color:#fff;}
+.textfield{margin:0 0 25px 0; padding:0; width:100%; height:40px; border:1px solid #999;}
+.textfield2{margin:0 0 25px 0; padding:0; width:100%; height:100px; border:1px solid #999;}
+.Take-appointment{margin:0 ; padding:0; text-align:center; }
+.Take-appointment button{margin:0; padding:20px 0;width:100%; text-decoration:none; background:#129fa6; color:#fff; border:none; font-size:22px; }
+
+
+
+.footer{margin:0; padding:70px 0; width:100%; background-color:#52545d;}
+.footer h1{margin:0; padding:0; font-size:20px; text-transform:uppercase; color:#FFF; }
+.footer ul{margin:40px 0 0 0; padding:0; font-size:16px; color:#FFF;}
+.footer ul li{margin:0; padding:0; font-size:16px; color:#FFF; list-style:none;}
+
+
+.footer-para{margin:0; padding:40px 0; width:100%; background-color:#4c4e56;}
+.footer-para p{margin:0; padding:0; font-size:14px; font-family:lato; color:#FFF;  font-weight:normal;}
